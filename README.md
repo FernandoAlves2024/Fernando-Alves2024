@@ -1,5 +1,5 @@
 # Olá meu nome é Fernando Alves, tenho 43 anos, e estou estudando Programação, criando projetos com HTML, CSS, GITHUB, e começando no JavaScript e React.
-
+:raised_hands::raised_hands:
 
 ![título](https://img.shields.io/badge/Título-Título-green.svg?logo=data:<link_copiado_do_base64>)
 
@@ -9,8 +9,9 @@
 
 ![like](https://img.shields.io/badge/Deixe%20seu-%20👍-FFDD67.svg?style=flat-square)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
